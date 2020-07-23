@@ -78,6 +78,7 @@
 
 Minikube 安装细节参考：https://yq.aliyun.com/articles/221687/
 
+#TODO a
 配置本地镜像中心域名
 ```
 minikube ssh
