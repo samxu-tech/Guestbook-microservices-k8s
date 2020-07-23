@@ -40,4 +40,3 @@ spec:
           protocol: TCP
       imagePullSecrets:
       - name: regcred-local
-#TODO have issue in K8S
