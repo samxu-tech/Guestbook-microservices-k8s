@@ -24,4 +24,5 @@
         <module>gateway-service</module>
         <module>zipkin-service</module>
     </modules>
+
 </project>
